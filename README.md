@@ -4,7 +4,7 @@ A simple project that displays and searches robots with a scrollbar. The searchb
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Website](#Website Link)
+* [Website](#Website)
 * [Setup](#setup)
 
 ## General info
@@ -15,7 +15,7 @@ My first Javascript - React web development project. The purpose of this project
 * Tachyons - version 4.11.1
 * JSON
 
-## Website Link
+## Website
 [Robofriends](https://njjeske.github.io/robofriends/)
 
 ## Setup
