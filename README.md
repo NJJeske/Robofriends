@@ -8,7 +8,7 @@ A simple project that displays and searches robots with a scrollbar. The searchb
 * [Setup](#setup)
 
 ## General info
-My first Javascript - React web development project. The purpose of this project was to learn how to create and use React's framework to make a functional website. This website uses two different APIs (Robohash & JSON) and is deployed through Github Pages.
+My first Javascript - React web development project. The purpose of this project was to learn how to create and use React's framework to make a functional website. This website uses an API called Robohash for the robot images, and fetches JSON to structure the robot names and emails.The website is deployed through Github Pages.
 
 ## Technologies
 * React.js - version 16.10.2
