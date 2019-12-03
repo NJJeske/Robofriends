@@ -11,7 +11,7 @@ A simple project that displays and searches robots with a scrollbar. The searchb
 My first Javascript - React web development project. The purpose of this project was to learn how to create and use React's framework to make a functional website. This website uses two different APIs (Robohash & JSON) and is deployed through Github Pages.
 
 ## Technologies
-* React.js - version 16.10.2
+* React.js - version 16.12.0
 * Tachyons - version 4.11.1
 * JSON
 
