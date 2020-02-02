@@ -8,10 +8,11 @@ A simple project that displays and searches robots with a scrollbar. The searchb
 * [Setup](#setup)
 
 ## General info
-My first Javascript - React web development project. The purpose of this project was to learn how to create and use React's framework to make a functional website. This website uses an API called Robohash for the robot images, and fetches JSON to structure the robot names and emails.The website is deployed through Github Pages.
+My first Javascript - React / Redux web development project. The purpose of this project was to learn how to create and use React's & Redux's framework to make a functional website. This website uses an API called Robohash for the robot images, and fetches JSON to structure the robot names and emails.The website is deployed through Github Pages.
 
 ## Technologies
 * React.js - version 16.12.0
+* Redux.js - version 4.0.5
 * Tachyons - version 4.11.1
 * JSON
 
